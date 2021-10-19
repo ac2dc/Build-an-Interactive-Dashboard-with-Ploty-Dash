@@ -50,7 +50,7 @@ app.layout = html.Div(children=[
                 max = 10000,
                 step = 1000,
                 marks = {
-                        0: {'label': '0 Kg', 'style': {'color': '#77b0b1'}},
+                        0: {'label': '0', 'style': {'color': '#77b0b1'}},
                         2500: {'label': '2500'},
                         5000: {'label': '5000'},
                         7500: {'label': '7500'},
